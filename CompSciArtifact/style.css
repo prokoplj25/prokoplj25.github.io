@@ -1,16 +1,22 @@
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap'); /*font-family: 'Inconsolata', monospace;*/
 
-h1{
+h1, h2, h3, p{
   text-align: center;
   font-family: 'Inconsolata', monospace;
+  color: Black;
 }
-h2{ 
-  text-align: center ;
-  font-family: 'Inconsolata', monospace;
+
+#main{
+  background-color: White;
 }
-h3{ 
-  text-align: center ;
-  font-family: 'Inconsolata', monospace;
+
+img{
+  margin: auto;
+  display: block;
 }
-{body bgcolor="#800000"
+
+body{
+  background-color: black;
+  width: 75%;
+  margin: auto;
 }
