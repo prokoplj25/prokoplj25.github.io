@@ -7,7 +7,7 @@ h1, h2, h3, p{
 }
 
 #main{
-  background-color: Yellow;
+  background-color: white;
 }
 
 img{
@@ -16,7 +16,7 @@ img{
 }
 
 body{
-  background-color: blue;
+  background-color: black;
   width: 75%;
   margin: auto;
 }
