@@ -1,1 +1,39 @@
+!DOCTYPE html>
+<html>
+ <head>
+  <Title>Prosthetic Limbs</Title>
+  <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+ <div id="main">
+  <h1>Prosthetic limbs</h1>
+  <h2> What is a Prosthetic limb?
+  </h2>
+  <h3> The definition of a <strong>prosthetic limb</strong> is a artificial devise that is used to replace a damage or missing body part.
+  </h3>
+  <h2> The history of prostheic limbs</h2>
+  <h3> Ancient Egypt </h3>1ncements in prosthetic limbs over the ages but we will be covering the major ones. The Story of prosthtic limbs goes all the way to around 950-710 B.C.E in Egypt were a noble women was found with a prosthetic big toe. The big toe allowed the to be able to wear sandles which were the main footwear in Anceint Egypt at the time.</p
+  >    <img src="https://www.history.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Ch_406%2Cq_auto:good%2Cw_620/MTYzOTQ2MTc0Njc4NzcxNTM3/egypt-gettyimages-1085205362.jpg" alt="Knight">
 
+  <h3> The Dark Ages</h3>
+  <p> About 2000 years later during the Dark Ages there were many istinces of Knigts using metal limbs that were not fuctitional but served to hide the missing limb. Missing limbs during that time was to be seen as shameful.</p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL1SBJjg-AnSOa15jf8tJR0K1w81s69pF3fQ&usqp=CAU" alt="Knight">
+
+  <h3> Yarr! </h3>
+  <p>Next we get to some rather well know instances. Everybody knows that pirates had wooden peg legs and metal hook hands, but how historically accurate is this? Well you don't have to worry about runing your childhood dream of being a pirate, some pirates actully used them, thought not as common as Hollywood would insist. Since pirates rarely had a trained doctor the ship's cook had to do the procedure, albeit with poor success rates.</p>
+  <img src="https://media.kidadl.com/6021fcf38ecb50db89ce11a7_jack_sparrow_is_the_most_popular_character_in_the_pirates_of_the_caribbean_series_f167243a3d.jpeg.webp" alt="Pirate">
+  <h3> The World Wars </h3>
+  <p> During WW1 the Surgeon General of the U.S. Army made a assocoatiotion to research and inptovev prostetic limbs called the <a href="https://www.oandp.org/page/Mission"> American Prosthetics and Orthotics Association</a> which really didn't make any major advancements in prosthetics till post-World War II when the U.S. government provided funding to military companies to improve the form and function of prosthetics.</p> 
+  <img src="https://medicsinww1.files.wordpress.com/2016/04/07de4a366353dc9768342ee7662bb98c.jpg" alt="World Wars">
+  <h3> Modern Day </h3>
+  <p> Prosthetic limbs have gone a long way from were they started. There are many new features like Consciously controlled limbs, See-through designs, Nerve detectors and soo much more! Here is a link for extra information <a href="https://www.fishinsurance.co.uk/top-advancements-in-prosthetics-in-2020/">Link</a></p>
+ <h3> The Future </h3>
+  <p> The future of prostetic limbs is a a bright one. some advancements currently being worked on are increased movment, the ability to feel (There is currently a arm that allows it's controller to feel over 100 different locations and types of sensation), more realistic desings and much more.</p>
+  <h3> Sources </h3>
+   <p> <a href="https://synergypo.com/blog/a-short-history-of-prosthetics/"> Synergy Prosthetics</a> and <a href="https://www.fishinsurance.co.uk/top-advancements-in-prosthetics-in-2020/"> American Prosthetics and Orthotics Association </a> </p>
+  <br>
+  <img src="https://www.opnews.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-09-at-10.25.39-800x500_c.png" alt="Futuristic prostetic arm">
+  </div>
+
+ </body> 
+</html>
