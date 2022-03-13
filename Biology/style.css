@@ -14,6 +14,10 @@ h1, h2, h3, p{
 img{
   margin: auto;
   display: block;
+  **Align center:**
+<p align="center" width="100%">
+    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png">
+</p>
 }
 
 body{
