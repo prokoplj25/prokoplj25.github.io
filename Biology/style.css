@@ -1,4 +1,5 @@
 
+@@ -1,22 +0,0 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap'); /*font-family: 'Inconsolata', monospace;*/
 
 h1, h2, h3, p{
@@ -8,16 +9,12 @@ h1, h2, h3, p{
 }
 
 #main{
-  background-color: black;
+  background-color: white;
 }
 
 img{
   margin: auto;
   display: block;
-  **Align center:**
-<p align="center" width="100%">
-    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png">
-</p>
 }
 
 body{
