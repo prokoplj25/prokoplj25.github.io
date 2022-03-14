@@ -1,11 +1,9 @@
-
-@@ -1,22 +0,0 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap'); /*font-family: 'Inconsolata', monospace;*/
 
 h1, h2, h3, p{
   text-align: center;
   font-family: 'Inconsolata', monospace;
-  color: white;
+  color: Black;
 }
 
 #main{
@@ -18,7 +16,7 @@ img{
 }
 
 body{
-  background-color: white;
+  background-color: black;
   width: 75%;
   margin: auto;
 }
